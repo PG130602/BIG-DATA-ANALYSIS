@@ -80,4 +80,13 @@ A key insight was that high ratings don't necessarily correlate with the number 
 ## 👤 Author
 This project was created by Pavan Gokak as part of a task for a company “CODTECH IT SOLUTIONS”, showcasing the power of PySpark for large-scale data analysis. It demonstrates how scalable data processing can uncover valuable insights in the e-commerce and beauty industries, emphasizing the importance of data-driven decision-making and the practical application of big data tools in real-world scenarios.
 
+# OUTPUT
 
+![Image](https://github.com/user-attachments/assets/1b027f3c-687c-4342-9be7-aa603ea096c7)
+![Image](https://github.com/user-attachments/assets/361ad29a-55d4-4504-90b8-dd7d7d2d0070)
+![Image](https://github.com/user-attachments/assets/3f437e8b-6b75-4063-9fb8-7beb7f3f9fa0)
+
+![Image](https://github.com/user-attachments/assets/dae2d705-319e-4dc2-b5eb-6ef58caae59b)
+![Image](https://github.com/user-attachments/assets/fc127f68-4cda-4f83-a2b3-ce8fd1468340)
+![Image](https://github.com/user-attachments/assets/7b93cfae-de4f-45d9-bdb7-f482016521c2)
+![Image](https://github.com/user-attachments/assets/5f28770c-623b-4839-a6b9-df2527c11e08)
